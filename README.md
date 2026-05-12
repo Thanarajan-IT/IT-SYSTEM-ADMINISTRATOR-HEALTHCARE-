@@ -12,7 +12,7 @@ All projects documented here are based on real production environments, includin
 
 | Detail | Information |
 |---|---|
-| 🏢 Environment | Government Teaching Hospital |
+| 🏢 Environment | Copr Hospital |
 | 💼 Role | IT System Administrator |
 | 📅 Experience | March 2024 – Present |
 | ⚙️ Focus Area | Infrastructure, Support, Operations |
